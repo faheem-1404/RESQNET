@@ -1,0 +1,7 @@
+path: datasets/floods/Dataset
+
+train: images/train
+val: images/valid
+
+names:
+  0: flood
